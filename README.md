@@ -1,3 +1,5 @@
 **Abstract**
+
 This study conducts an extensive sentiment analysis of 7,357 English Tesla-related tweets using an XGBoost classifier, addressing the critical need to understand public perception of innovative companies in the electric vehicle (EV) sector (Jain et al., 2019). The methodology involves advanced preprocessing with tweet-preprocessor and NLTK, feature engineering using TF-IDF (2,000 features) and weighted VADER sentiment scores, and model optimization via GridSearchCV with SMOTE balancing (Chawla et al., 2002). The model achieved an accuracy of 71.67% and a macro F1-score of 67.73% ± 5.97%, with a sentiment distribution of 37.31% negative, 30.58% neutral, and 32.11% positive. Theoretical assumptions explore the impact of social media on EV sentiment (Thelwall et al., 2010), while results and discussions highlight model performance and Tesla-specific insights (Chen & Guestrin, 2016). The study concludes with implications for EV marketing and future research directions in NLP.
-Keywords: Sentiment analysis, Tesla-related tweets, XGBoost classifier, Public perception, Electric vehicle (EV) sector
+
+**Keywords:** Sentiment analysis, Tesla-related tweets, XGBoost classifier, Public perception, Electric vehicle (EV) sector
